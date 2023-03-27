@@ -1,0 +1,7 @@
+#filter{
+    float: right;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
