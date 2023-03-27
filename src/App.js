@@ -1,11 +1,11 @@
-import React from "react";
-import Body from "./body";
-import Header from "./header";
+
+import './App.css';
+import Main from './components/Main';
+
 function App() {
   return (
-    <div >
-      <Header/>
-      <Body/>
+    <div className="App">
+        <Main/>
     </div>
   );
 }
